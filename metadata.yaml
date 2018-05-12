@@ -1,0 +1,44 @@
+_repo: The-Cockaynes-in-Paris--13-Or-Gone-abroad-_18327
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Doré, Gustave
+    aliases:
+    - Doré, Louis Auguste Gustave
+    - Doré, Louis Christophe Paul Gustave
+    - Dore, Gustave
+    - Dorè, Gustave
+    birthdate: 1832
+    deathdate: 1883
+    gutenberg_agent_id: '1896'
+    url: http://www.gutenberg.org/2009/agents/1896
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Doré
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jerrold, Blanchard
+    aliases:
+    - Jerrold, W. Blanchard (William Blanchard)
+    - Fin-Bec
+    - Jerrold, William Blanchard
+    birthdate: 1826
+    deathdate: 1884
+    gutenberg_agent_id: '5204'
+    url: http://www.gutenberg.org/2009/agents/5204
+    wikipedia: http://en.wikipedia.org/wiki/William_Blanchard_Jerrold
+description: ''
+gutenberg_issued: '2006-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18327'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Description and travel'
+- !lcc 'PR'
+title: The Cockaynes in Paris; Or, 'Gone abroad'
+url: http://www.gutenberg.org/ebooks/18327
